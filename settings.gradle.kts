@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "DemoPOC"
 include(":app")
- 
+include(":core-network")
+include(":core-storage")
